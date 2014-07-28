@@ -1,4 +1,4 @@
-abcd2468
+zmianaKONFLIKTOWAabcd2468
 ========
 
 ========
